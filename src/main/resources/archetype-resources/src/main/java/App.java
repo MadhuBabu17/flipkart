@@ -1,7 +1,7 @@
 package $package;
 
 /**
- * Hello world!!!!!!!!
+ * Hello world! my new edit file is done successfully done
  *
  */
 public class App 
